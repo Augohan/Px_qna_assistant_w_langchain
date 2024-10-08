@@ -18,3 +18,8 @@ This project is a Q&A assistant built using Langchain and OpenAI's LLM API. It a
 ## Usage
 
 Run the application using:
+
+
+
+## Powered by
+Ivrrr
