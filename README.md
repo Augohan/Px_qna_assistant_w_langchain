@@ -2,6 +2,8 @@
 
 This project is a Q&A assistant built using Langchain and OpenAI's LLM API. It allows users to ask questions and receive answers based on the provided documents. The application is designed to demonstrate the integration of natural language processing with document retrieval.
 
+Focus is on ride-testing the Langchain framework and OpenAI's LLM API.
+
 ## Features
 
 - Load and process text documents.
